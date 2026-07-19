@@ -1,0 +1,23 @@
+﻿<Window x:Class="ShapesFactory.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShapesFactory"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas Name="MyCanvas">
+            <Button Name="MyButton" Height="35" Width="74" Canvas.Left="10" Canvas.Top="10" Click="Button_Click">
+                Push
+            </Button>
+            <ComboBox Name ="ColorComboBox" Height="35" Width="74" Canvas.Left="120" Canvas.Top="10" SelectionChanged="ColorComboBox_SelectionChanged">
+                <TextBlock></TextBlock>
+                <TextBlock>Red</TextBlock>
+                <TextBlock>Blue</TextBlock>
+                <TextBlock>Green</TextBlock>
+            </ComboBox>
+        </Canvas>
+
+    </Grid>
+</Window>

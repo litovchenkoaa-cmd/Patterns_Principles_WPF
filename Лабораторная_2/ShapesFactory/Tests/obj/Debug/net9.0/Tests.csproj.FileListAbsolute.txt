@@ -1,0 +1,14 @@
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\bin\Debug\net9.0\Tests.exe
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\bin\Debug\net9.0\Tests.deps.json
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\bin\Debug\net9.0\Tests.runtimeconfig.json
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\bin\Debug\net9.0\Tests.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\bin\Debug\net9.0\Tests.pdb
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.AssemblyInfo.cs
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\refint\Tests.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.pdb
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\Tests.genruntimeconfig.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\Tests\obj\Debug\net9.0\ref\Tests.dll

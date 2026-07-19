@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\shapes\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\shapes\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|c:\\users\\alexandr\\desktop\\\u043C\u0430\u043A\u0430\u0440\u043E\u0432 c#\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\shapesfactory\\shapesfactory\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7689A3D1-EDDB-4DD8-A35A-B434B2BD236B}|ShapesFactory\\ShapesFactory.csproj|solutionrelative:shapesfactory\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Tools.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\Shapes\\Tools.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Tools.cs",
+              "RelativeToolTip": "ShapesFactory\\Shapes\\Tools.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T09:04:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "ShapesFactory\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T05:05:12.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\Shapes\\Square.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Square.cs",
+              "RelativeToolTip": "ShapesFactory\\Shapes\\Square.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T04:55:56.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\Circle.cs",
+              "RelativeToolTip": "ShapesFactory\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T04:47:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\Shapes\\IShape.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\Shapes\\IShape.cs",
+              "RelativeToolTip": "ShapesFactory\\Shapes\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T10:51:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShapesFactory\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\MainWindow.xaml",
+              "RelativeToolTip": "ShapesFactory\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-27T13:03:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShapesFactory\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexandr\\Desktop\\\u041C\u0430\u043A\u0430\u0440\u043E\u0432 C#\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F_2\\ShapesFactory\\ShapesFactory\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShapesFactory\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:03:33.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

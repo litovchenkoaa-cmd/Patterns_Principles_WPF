@@ -1,0 +1,40 @@
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.exe
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.deps.json
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.runtimeconfig.json
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.pdb
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory_MarkupCompile.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory_MarkupCompile.lref
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.g.resources
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.AssemblyInfo.cs
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\refint\ShapesFactory.dll
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.pdb
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.genruntimeconfig.cache
+C:\Users\Alexandr\source\CPPprojects\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ref\ShapesFactory.dll
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.exe
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.deps.json
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.runtimeconfig.json
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.dll
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\bin\Debug\net9.0-windows\ShapesFactory.pdb
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory_MarkupCompile.cache
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory_MarkupCompile.lref
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.g.resources
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.dll
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\refint\ShapesFactory.dll
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.pdb
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ShapesFactory.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\Макаров C#\Лабораторная_2\ShapesFactory\ShapesFactory\obj\Debug\net9.0-windows\ref\ShapesFactory.dll
